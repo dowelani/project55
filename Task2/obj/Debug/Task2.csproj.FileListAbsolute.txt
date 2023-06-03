@@ -1,0 +1,30 @@
+C:\MyData\Courses\WRA2\2016\WRA202\Contact Sessions\Week 10 - 19 September 2016 (Binary Search Trees)\Solutions\Task2\Task2\bin\Debug\Task2.exe.config
+C:\MyData\Courses\WRA2\2016\WRA202\Contact Sessions\Week 10 - 19 September 2016 (Binary Search Trees)\Solutions\Task2\Task2\bin\Debug\Task2.exe
+C:\MyData\Courses\WRA2\2016\WRA202\Contact Sessions\Week 10 - 19 September 2016 (Binary Search Trees)\Solutions\Task2\Task2\bin\Debug\Task2.pdb
+C:\MyData\Courses\WRA2\2016\WRA202\Contact Sessions\Week 10 - 19 September 2016 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\MyData\Courses\WRA2\2016\WRA202\Contact Sessions\Week 10 - 19 September 2016 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.exe
+C:\MyData\Courses\WRA2\2016\WRA202\Contact Sessions\Week 10 - 19 September 2016 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.pdb
+C:\MyData\Courses\WRA2\2017\WRA(V)202\Contact Sessions\Week 10 - 18 September 2017 (Binary Search Trees)\Solutions\Task2\Task2\bin\Debug\Task2.exe.config
+C:\MyData\Courses\WRA2\2017\WRA(V)202\Contact Sessions\Week 10 - 18 September 2017 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.exe
+C:\MyData\Courses\WRA2\2017\WRA(V)202\Contact Sessions\Week 10 - 18 September 2017 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.pdb
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 10 - 17 September 2018 (Binary Search Trees)\Solutions\Task2\Task2\bin\Debug\Task2.exe.config
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 10 - 17 September 2018 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.exe
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 10 - 17 September 2018 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.pdb
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 10 - 17 September 2018 (Binary Search Trees)\Solutions\Task2\Task2\bin\Debug\Task2.exe
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 10 - 17 September 2018 (Binary Search Trees)\Solutions\Task2\Task2\bin\Debug\Task2.pdb
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 10 - 17 September 2018 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 8 - 30 November 2020 (Binary Search Trees)\Solutions\Task2\Task2\bin\Debug\Task2.exe.config
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 8 - 30 November 2020 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.exe
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 8 - 30 November 2020 (Binary Search Trees)\Solutions\Task2\Task2\obj\Debug\Task2.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 8 - 30 November 2020 (Binary Search Trees)\DigiLT\Practical Template Files\Task2\Task2\bin\Debug\Task2.exe.config
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 8 - 30 November 2020 (Binary Search Trees)\DigiLT\Practical Template Files\Task2\Task2\obj\Debug\Task2.exe
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 8 - 30 November 2020 (Binary Search Trees)\DigiLT\Practical Template Files\Task2\Task2\obj\Debug\Task2.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 8 - 30 November 2020 (Binary Search Trees)\DigiLT\Practical Template Files\Task2\Task2\bin\Debug\Task2.exe
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 8 - 30 November 2020 (Binary Search Trees)\DigiLT\Practical Template Files\Task2\Task2\bin\Debug\Task2.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 8 - 30 November 2020 (Binary Search Trees)\DigiLT\Practical Template Files\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\khumbelo\Downloads\wrav2\w8\Unit 8 Practical Task Template and Submission Files\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\khumbelo\Downloads\wrav2\w8\Unit 8 Practical Task Template and Submission Files\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\khumbelo\Downloads\wrav2\w8\Unit 8 Practical Task Template and Submission Files\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\khumbelo\Downloads\wrav2\w8\Unit 8 Practical Task Template and Submission Files\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\khumbelo\Downloads\wrav2\w8\Unit 8 Practical Task Template and Submission Files\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\khumbelo\Downloads\wrav2\w8\Unit 8 Practical Task Template and Submission Files\Task2\Task2\obj\Debug\Task2.pdb
